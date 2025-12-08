@@ -1,7 +1,7 @@
 # 🪙 Simple Token Smart Contract
 
 ## 📌 Introduction
-This project demonstrates how to **build and deploy your first ERC-20-like token** 
+This project showcases the process of building and deploying a custom ERC-20–style token on a local blockchain environment.
 
 <img width="1600" height="580" alt="image" src="https://github.com/user-attachments/assets/ed134c03-83ba-4746-98ba-4120a6b68233" />
 <img width="1863" height="500" alt="image" src="https://github.com/user-attachments/assets/c85fdc91-7988-48a1-b387-688d50f0ef98" />
