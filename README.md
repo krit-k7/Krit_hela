@@ -24,7 +24,7 @@ This project helps beginners understand key blockchain concepts such as:
 - Allows wallet-to-wallet transfers
 - Stores balances on-chain
 - Shows real blockchain transaction behavior
-- Teaches deployment steps and verification flo
+- Teaches deployment steps and verification flow
 
 ## 🚀 Features
 - 🔐 Decentralized – runs on blockchain, not a server
