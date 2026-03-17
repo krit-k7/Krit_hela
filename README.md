@@ -10,7 +10,7 @@ This project demonstrates the design, development, and deployment of a custom ER
 
 
 ## 📜 Project Description
-The smart contract implements a simple fungible token with a fixed supply. Once deployed, tokens are minted to the contract deployer's address. Users can transfer tokens to any other wallet on the same network.
+The smart contract implements a simple fungible token with a fixed supply. Once deployed, tokens are minted to the contract deployer's address. Users can transfer tokens to any other wallet on the same network
 
 This project helps beginners understand key blockchain concepts such as:
 - Smart contracts
