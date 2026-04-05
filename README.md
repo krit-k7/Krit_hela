@@ -63,7 +63,7 @@ import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 /// @custom:dev-run-script ./scripts/deploy.js
 
 contract MyToken is ERC20 {
-    constructor(uint256 initialSupply) ERC20("KritHela", "KG") {
+    constructor(uint256 initialSupply) ERC20("KritHela", "RG") {
        _mint(msg.sender, initialSupply * 10 ** decimals());
     }
 }
