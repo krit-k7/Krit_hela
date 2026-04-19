@@ -19,7 +19,7 @@ This project helps beginners understand key blockchain concepts such as:
 - Deployment workflow
 - Local blockchain testing
 
-## ✅ What It Does
+## ✅ What It Does:-
 - Creates a token with a fixed supply
 - Allows wallet-to-wallet transfers
 - Stores balances on-chain
