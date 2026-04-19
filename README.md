@@ -1,7 +1,7 @@
 # 🪙 Simple Token Smart Contract
 
 ## 📌 Introduction
-This project demonstrates the design, development, and deployment of a custom ERC-20–style token on a local blockchain environment using Solidity. It was created as part of a hands-on blockchain development session to gain a deeper practical understanding of how cryptocurrencies work at a fundamental level. The project covers key concepts such as smart contracts, token creation, deployment, and interaction within a decentralized setup, helping to illustrate how digital assets like Bitcoin and tokens operate within a blockchain ecosystem.
+This project demonstrates the design, development, and deployment of a custom ERC-20–style token on a local blockchain environment using Solidity. It was created as part of a hands-on blockchain development session to gain a deeper practical understanding of how cryptocurrencies work at a fundamental level. The project covers key concepts such as smart contracts, token creation, deployment and interaction within a decentralized setup, helping to illustrate how digital assets like Bitcoin and tokens operate within a blockchain ecosystem.
 
 <img width="1600" height="580" alt="image" src="https://github.com/user-attachments/assets/ed134c03-83ba-4746-98ba-4120a6b68233" />
 
