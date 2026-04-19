@@ -33,7 +33,7 @@ This project helps beginners understand key blockchain concepts such as:
 - 🧾 Transparent on-chain balances
 - ⚙️ Easy to deploy locally (Ganache/Hardhat)
 
-## 🌐 Network
+## 🌐 Network:-
 - **Network used:** HeLa Testnet
 - **RPC URL:** `https://testnet-rpc.helachain.com`
 - **Chain id:** 666888
