@@ -26,7 +26,7 @@ This project helps beginners understand key blockchain concepts such as:
 - Shows real blockchain transaction behavior
 - Teaches deployment steps and verification flow
 
-## 🚀 Features
+## 🚀 Features:-
 - 🔐 Decentralized – runs on blockchain, not a server
 - 💸 Transferable tokens between accounts
 - 📦 Fixed total supply
