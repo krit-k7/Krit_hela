@@ -48,7 +48,7 @@ Network: HeLa Testnet
 
 Contract Address: `0xA17048cc69F67C8A05226049718109F15fbD21d9`
 
-Verified Source: Verified through Remix (Sourcify & Metadata Match)
+Verified Source: Verified through Remix (Sourcify & Metadata Match).
 
 
 ## 🧠 Smart Contract Code:-
